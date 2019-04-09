@@ -1,2 +1,2 @@
-# codeigniter
+# Codeigniter
 Practice Codeigniter
